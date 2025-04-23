@@ -27,6 +27,10 @@ Student ID is structured to extract:
 
 ---
 
+🛠️ Technologies Used
+	•	Language: C#
+	•	Environment: .NET Console Application
+
 ## 🧪 Sample Menu Options
 
 ```bash
@@ -38,6 +42,3 @@ Student ID is structured to extract:
 6. Delete student
 7. Student Summary BatchWise
 
-🛠️ Technologies Used
-	•	Language: C#
-	•	Environment: .NET Console Application
